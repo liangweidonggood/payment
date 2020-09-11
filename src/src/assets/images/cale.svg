@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>取消</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情页_加入购物车" transform="translate(-1125.000000, -367.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="取消" transform="translate(1125.000000, 367.000000)">
+                <path d="M8,0 C3.57600416,0 0,3.57600416 0,8 C0,12.4240145 3.57600416,16.0000186 8.00000931,16.0000186 C12.4240145,16.0000186 16.0000186,12.4240145 16.0000186,8.00000931 C16.0000186,3.57600416 12.4240145,0 8,0 Z M12.000014,10.8720127 L10.8720127,12.000014 L8.00000931,9.12801062 L5.12800597,12.000014 L4.00000465,10.8720127 L6.872008,8.00000931 L4.00000465,5.12800597 L5.12800597,4.00000465 L8.00000931,6.872008 L10.8720127,4.00000465 L12.000014,5.12800597 L9.12801062,8.00000931 L12.000014,10.8720127 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
